@@ -4,7 +4,7 @@
   "description": "A serial multiplexer for encoding or decoding RTSP streams",
   "main": "index.js",
   "scripts": {
-    "test": "standard && tape test/*.js"
+    "test": "tape test/*.js"
   },
   "directories": {
     "test": "test"
